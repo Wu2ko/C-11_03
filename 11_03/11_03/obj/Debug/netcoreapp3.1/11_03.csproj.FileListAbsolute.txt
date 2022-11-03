@@ -1,0 +1,13 @@
+C:\Users\moksleivis\source\repos\11_03\11_03\bin\Debug\netcoreapp3.1\11_03.exe
+C:\Users\moksleivis\source\repos\11_03\11_03\bin\Debug\netcoreapp3.1\11_03.deps.json
+C:\Users\moksleivis\source\repos\11_03\11_03\bin\Debug\netcoreapp3.1\11_03.runtimeconfig.json
+C:\Users\moksleivis\source\repos\11_03\11_03\bin\Debug\netcoreapp3.1\11_03.runtimeconfig.dev.json
+C:\Users\moksleivis\source\repos\11_03\11_03\bin\Debug\netcoreapp3.1\11_03.dll
+C:\Users\moksleivis\source\repos\11_03\11_03\bin\Debug\netcoreapp3.1\11_03.pdb
+C:\Users\moksleivis\source\repos\11_03\11_03\obj\Debug\netcoreapp3.1\11_03.csprojAssemblyReference.cache
+C:\Users\moksleivis\source\repos\11_03\11_03\obj\Debug\netcoreapp3.1\11_03.AssemblyInfoInputs.cache
+C:\Users\moksleivis\source\repos\11_03\11_03\obj\Debug\netcoreapp3.1\11_03.AssemblyInfo.cs
+C:\Users\moksleivis\source\repos\11_03\11_03\obj\Debug\netcoreapp3.1\11_03.csproj.CoreCompileInputs.cache
+C:\Users\moksleivis\source\repos\11_03\11_03\obj\Debug\netcoreapp3.1\11_03.dll
+C:\Users\moksleivis\source\repos\11_03\11_03\obj\Debug\netcoreapp3.1\11_03.pdb
+C:\Users\moksleivis\source\repos\11_03\11_03\obj\Debug\netcoreapp3.1\11_03.genruntimeconfig.cache
